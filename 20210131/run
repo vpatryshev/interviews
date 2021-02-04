@@ -1,0 +1,8 @@
+args="$@"
+
+if [ -z $args ]; then
+  ./gradlew -q run
+else
+  ./gradlew -q run --args="$args"
+fi
+
