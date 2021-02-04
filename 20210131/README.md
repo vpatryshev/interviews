@@ -1,5 +1,9 @@
 #Code Sample for Leapyear
 
+## Summary
+The company did not like my code, so this was it. Bad code.
+
+
 [Details](https://leapyear.github.io/soccer-ranking-project/)
 
 ## Setup
